@@ -99,7 +99,7 @@
                 </h2>
                 <p class="text-md md:text-lg text-ecp-darkblue mb-6">
                     Obtén el <strong>El Certificado de Profesionalidad Oficial de Atención Sociosanitaria a personas dependientes en instituciones (SSCS0208)
-</strong>, que comienza el <strong>22 de septiembre de 2025</strong>. Este es un <strong>certificado de profesionalidad oficial</strong> y es <strong>obligatoria para poder trabajar con residencias</strong> en un sector de <strong>alta demanda</strong>.
+</strong>, que comienza el <strong>15 de Enero de 2026</strong>. Este es un <strong>certificado de profesionalidad oficial</strong> y es <strong>obligatoria para poder trabajar con residencias</strong> en un sector de <strong>alta demanda</strong>.
                 </p>
                 <p class="text-md md:text-lg text-ecp-darkblue mb-8">
                     ¡Prepárate con la mejor formación y <strong>acuerdos con las principales entidades del sector</strong>!
@@ -119,9 +119,9 @@
             <div id="form-section" class="lg:w-2/5 bg-ecp-darkblue p-8 md:p-10 rounded-xl shadow-2xl text-white mt-8 lg:mt-0">
                 <div class="w-full h-auto" style="min-height: 934px;">
                     <iframe
-    src="https://api.leadconnectorhq.com/widget/form/qpXLyZNi11P7YZW8RCsB"
+    src="https://api.leadconnectorhq.com/widget/form/YTklziFj4axChxZhQHX0"
     style="width:100%;height:100%;border:none;border-radius:3px"
-    id="inline-qpXLyZNi11P7YZW8RCsB" 
+    id="inline-YTklziFj4axChxZhQHX0" 
     data-layout="{'id':'INLINE'}"
     data-trigger-type="alwaysShow"
     data-trigger-value=""
@@ -129,18 +129,20 @@
     data-activation-value=""
     data-deactivation-type="neverDeactivate"
     data-deactivation-value=""
-    data-form-name="Detuatuformacion - C. de Profesionalidad  (SEM)"
-    data-height="897"
-    data-layout-iframe-id="inline-qpXLyZNi11P7YZW8RCsB"
-    data-form-id="qpXLyZNi11P7YZW8RCsB"
-    title="Detuatuformacion - C. de Profesionalidad  (SEM)"
+    data-form-name="Detuatuformacion - C. de Profesionalidad  (Tiktok)"
+    data-height="895"
+    data-layout-iframe-id="inline-YTklziFj4axChxZhQHX0"
+    data-form-id="YTklziFj4axChxZhQHX0"
+    title="Detuatuformacion - C. de Profesionalidad  (Tiktok)"
         >
 </iframe>
 <script src="https://link.msgsndr.com/js/form_embed.js"></script>
                 </div>
                 <script src="https://link.msgsndr.com/js/form_embed.js"></script>
 
-             
+                <p class="text-center text-sm mt-4 opacity-70">
+                    Al enviar tus datos, aceptas nuestra <a href="#" class="underline hover:text-ecp-orange">Política de Privacidad</a>.
+                </p>
             </div>
         </div>
     </section>
@@ -190,7 +192,7 @@
                 <p class="text-gray-700 italic mb-4">
                     "La formación de ECP es de primera. Me dio la confianza y las herramientas para destacar en el sector. ¡Altamente recomendado!"
                 </p>
-                <p class="text-lg font-bold text-ecp-darkblue">Jhon Montano</p>
+                <p class="text-lg font-bold text-ecp-darkblue">John Montalgo</p>
                 <p class="text-gray-600">Cuidador Certificado</p>
             </div>
             <div class="bg-white p-6 rounded-xl shadow-md flex flex-col items-center text-center">
@@ -236,13 +238,14 @@
     <section class="bg-white py-12 px-4 md:px-8 lg:px-16 mt-8 rounded-xl shadow-lg max-w-7xl mx-auto text-center">
         <h2 class="text-4xl font-bold text-ecp-darkblue mb-8">¿Tienes dudas?</h2>
         <a href="https://wa.me/+34669095574" class="gradient-button text-white px-8 py-4 rounded-full text-lg sm:text-xl font-bold shadow-lg transition-all duration-300 hover:scale-105">
-contacta con nosotros      </a>
+contacta con nosotros </a>
     </section>
     <footer class="bg-ecp-darkblue py-8 px-4 md:px-8 lg:px-16 mt-8 rounded-t-xl text-white text-center">
         <div class="max-w-7xl mx-auto">
             <p class="mb-6">Email: seleccion@detuatuformacion.es | Teléfono: <u><a href="https://wa.me/+34669095574">+34669095574</a></u></p>
             <p class="text-sm opacity-70">
                 © 2025 Escuela de Cuidadores Profesionales. Todos los derechos reservados.
+                <a href="https://escueladecuidadoresprofesionales.com/politica-de-privacidad/" class="underline hover:text-ecp-orange">Política de Privacidad</a>.
             </p>
         </div>
     </footer>
